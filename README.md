@@ -58,7 +58,8 @@
 - `客户行为与消费习惯分析.ipynb` – 完整分析代码
 - `rfm_analysis_full.csv` – 包含 RFM 评分和分群结果的完整数据
 - `customer_segment_summary.csv` – 各客户群汇总统计表
-- `high_value_customers2.csv` – 高价值客户列表（RFM 总分前 20%）
+- `high_value_customers.csv` – 高价值客户列表（RFM 总分前 20%）
+- `high_value_customers2.csv` – 高价值客户列表（特定分群）
 
 ## 🚀 快速开始
 
